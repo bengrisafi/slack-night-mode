@@ -1613,7 +1613,7 @@ body > pre { background: #828282; }
 
 .special_formatting_quote .quote_bar { background-color: #545454; }
 
-.p-threads_footer__input--legacy .p-mesage_input_field {backgroud: padding-box #545454}
+.p-threads_footer__input--legacy .p-message_input_field {backgroud: padding-box #545454}
 
 .p-threads_footer__input--legacy .p-message_input_file_button {background: padding-box #54545}
 
@@ -1655,7 +1655,7 @@ ts-thread .reply_input_container .inline_message_input_container form textarea {
 
 ts-thread .reply_input_container .collapsed_input_placeholder, ts-thread .reply_input_container .join_channel_from_thread_container, ts-thread .reply_input_container .reply_limited_in_general { background: #363636; border-color: #363636; }
 
-ts-thread .thread_messages { background: #363636; border-color: #363636; }
+ts-thread .thread_messages { background: #545454; border-color: #363636; }
 
 ts-thread ts-message.new_reply { background: #222; }
 
